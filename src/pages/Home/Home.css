@@ -1,0 +1,22 @@
+.hero {
+  position: relative;
+}
+
+.banner-img {
+  width: 100%;
+  height: auto;
+}
+
+.hero_caption {
+  position: absolute;
+  bottom: 50px;
+  left: 50px;
+  color: white;
+  max-width: 600px;
+}
+
+.caption-img {
+  width: 300px;
+  display: block;
+  margin-bottom: 10px;
+}
